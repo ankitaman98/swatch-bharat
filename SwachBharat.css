@@ -1,0 +1,138 @@
+
+
+* {
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch; /*Smooth scrolling in safari/IE*/
+    /* font-family: 'Solway', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Righteous', cursive; */
+    /* font-family: 'Alfa Slab One', cursive; */
+    /* font-family: 'Bungee', cursive; */
+    /* font-family: 'Ultra', serif; */
+    font-family: 'Luckiest Guy', cursive;
+   
+}
+#full{
+background-color:  #ffe0b3 !important;
+}
+.navbar{
+    background-color: white !important;
+}
+@media(max-width:1100px){
+    
+#himg{
+    height: 20px;
+}
+.header{
+  padding-left: 0px !important;
+}
+#he2,#he4{
+    color:white;
+    margin: 0,0,0 !important;
+    text-shadow: 2px 2px rgb(184, 138, 138);
+    font-size: 0;
+   }
+#he2{
+    padding-top: 8px;
+    font-size: 2rem !important;
+}
+
+}
+#a{
+    color: #f3825f !important;
+    
+    font-family: 'Ultra', serif;
+    /* font-family: 'Luckiest Guy', cursive; */
+
+}
+.abouthed h2{
+    padding-top: 10px;
+    padding-bottom:10px ;
+    color: white;
+    background-color: rgb(92, 84, 84);
+    text-shadow: 2px 2px rgb(150, 3, 3);
+}
+.achihed {
+    padding-top: 10px;
+    padding-bottom:10px ;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    text-shadow: 2px 2px rgb(150, 3, 3);
+}
+.Brand{
+    padding-top: 10px;
+    padding-bottom:10px ;
+    color: white;
+    background-color: rgb(92, 84, 84);
+    text-shadow: 2px 2px rgb(150, 3, 3);
+}
+.NEWS{
+    padding-top: 10px;
+    padding-bottom:10px ;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    text-shadow: 2px 2px rgb(150, 3, 3);
+}
+#twit{
+    color: rgb(12, 11, 11) !important;
+    font-size: 2rem;
+    text-shadow: 2px 2px grey;
+}
+@media(max-width:576px){
+#videos{
+    margin:auto !important;;
+}}
+#videos{
+    padding-left: 60px !important;
+    margin: auto auto 30px auto;
+}
+#himg{
+    height: 120px;
+}
+.header{
+    padding-left: 150PX;
+    background-image: linear-gradient(orange,white,green)
+}
+#he2,#he4{
+    color: rgb(255, 253, 253);
+    margin: 0,0,0 !important;
+    text-shadow: 2px 2px rgb(241, 79, 79);
+   }
+#he2{
+    padding-top: 8px;
+    font-size: 2.5rem;
+}
+#s{
+    height: 50px;;
+}
+a
+{
+    color: rgb(0,0,0) !important;
+}
+a:hover{
+    color:rgb(175, 2, 2) !important;
+}
+
+section h2{
+   
+    text-shadow: 2px 2px rgb(122, 119, 119);
+
+}
+body{
+    background-color: rgb(133, 129, 128);
+}
+.card{
+    background: transparent !important;
+}
+#i{
+    height: 300px !important;
+}
+footer{
+    background-color: black;
+}
+hr{
+    border-top: 2px solid black;
+}
